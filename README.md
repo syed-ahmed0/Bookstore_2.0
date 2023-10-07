@@ -1,5 +1,8 @@
 # Bookstore_2.0
 
+An updated version of my old bookstore application with a SQL database!
+
+Updates to the database can be done using MySQL Workbench, or through the client UI to Add, Update, and Delete Books!
 
 ![ing5erdiagram](https://github.com/syed-ahmed0/Bookstore_2.0/assets/102703936/3c60a474-cfbd-48a3-96fa-39d458077808)
 
