@@ -1,5 +1,7 @@
 # Bookstore_2.0
 
+*Currently working to deploy to github pages, stay tuned!*
+
 An updated version of my old bookstore application with a SQL database!
 
 Updates to the database can be done using MySQL Workbench, or through the client UI to Add, Update, and Delete Books!
